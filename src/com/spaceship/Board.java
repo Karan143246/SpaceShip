@@ -36,7 +36,7 @@ public class Board extends JPanel{
     private void addRestartButton() {
         restartButton = new JButton("Restart");
         restartButton.addActionListener(e -> resetGame());
-        restartButton.setBounds(1500 / 2 - 75, 920 / 2, 150, 50);
+        restartButton.setBounds(1400 / 2 - 75, 820 / 2, 150, 50);
         add(restartButton);
     }
 
