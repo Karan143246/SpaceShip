@@ -1,4 +1,7 @@
 # SpaceShip
+![Screenshot (141)](https://github.com/Karan143246/SpaceShip/assets/103922464/abd6d105-3ae2-44bc-915f-ef9a73f0a2bd)
+![Screenshot (144)](https://github.com/Karan143246/SpaceShip/assets/103922464/8a9ac4a6-d461-4a02-9f9b-39b6a611f57d)
+
 <h1>This is a cool SpaceShip game </h1>
 <h2> It is made completely using JAVA </h2>
 <h2>Hope you all like it.</h2>
